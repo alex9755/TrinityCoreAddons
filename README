@@ -1,3 +1,9 @@
-Repo content.
+---------------------------------- Repo content ----------------------------------
 
 1. YTDB directory - contains clean last full version of YTDB database for TrinityCore(FaceCore).
+http://www.ytdb.ru/
+2. TOOLS directory - contains compiled for WIN32 extractors for DBC, MAPS and VMAPS.
+
+3. WOWARMORY - contains needed, but missing in official Wowarmory repository files.
+https://github.com/Shadez/wowarmory
+
